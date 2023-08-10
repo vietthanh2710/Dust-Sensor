@@ -1,0 +1,36 @@
+id,pollution,duration
+1,Good,0
+1,Moderate,0
+1,Slightly unhealthy,0
+1,Slightly unhealthy,0
+1,Very unhealthy,50
+1,Hazardous,149
+1,Extremely hazardous,2
+2,Good,0
+2,Moderate,0
+2,Slightly unhealthy,0
+2,Slightly unhealthy,0
+2,Very unhealthy,46
+2,Hazardous,146
+2,Extremely hazardous,9
+3,Good,0
+3,Moderate,0
+3,Slightly unhealthy,0
+3,Slightly unhealthy,0
+3,Very unhealthy,49
+3,Hazardous,146
+3,Extremely hazardous,6
+4,Good,0
+4,Moderate,0
+4,Slightly unhealthy,0
+4,Slightly unhealthy,1
+4,Very unhealthy,54
+4,Hazardous,137
+4,Extremely hazardous,9
+5,Good,0
+5,Moderate,0
+5,Slightly unhealthy,0
+5,Slightly unhealthy,0
+5,Very unhealthy,46
+5,Hazardous,153
+5,Extremely hazardous,2
